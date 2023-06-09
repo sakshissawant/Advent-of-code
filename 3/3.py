@@ -1,4 +1,4 @@
-file = open('3/demo','r')
+file = open('3/input','r')
 strings = file.readlines() #strings is a list
 
 #print(strings)
